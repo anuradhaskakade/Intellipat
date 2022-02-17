@@ -30,7 +30,7 @@ $mime_type="application/force-download";
 };
 };
 
-@ob_end_clean();
+
 
 
 if(ini_get('zlib.output_compression'))
