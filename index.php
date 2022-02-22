@@ -56,7 +56,7 @@ die(mysql_error());
 <head>
 		<title>Download As Zip</title>
 
-<title></>
+
 	
 </head>	
 <body>
